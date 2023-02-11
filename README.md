@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nir3shprabu" alt="nir3shprabu" /></a> </p>
 
-- 🌱 I’m currently learning **Linux, Go**
+- 🌱 I’m currently learning **Linux, pulumi, Ansible**
 
-- 💬 Ask me about **Terraform, Aws, Ansible**
-
-- 📫 How to reach me **niresh.prabu@protonmail.com**
+- 💬 Ask me about **Terraform, Aws, Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
