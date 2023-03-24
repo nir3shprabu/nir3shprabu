@@ -6,7 +6,7 @@
 
 <p>
 <b>DESCRIPTION</b><br>
-        I'm a DevOps engineer at <a href="https://ittrident.com">itTrident</a>,<br>
+        I'm a DevOps engineer at <a href="https://ittrident.com">itTrident</a>.<br>
        Ask me about Terraform, Docker, AWS.<br>
        I'm currently learning GCP, Ansible, K8's.
 </p>
