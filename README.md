@@ -1,14 +1,14 @@
 <samp>
 <p>
 <b>NAME</b><br>
-       Niresh Prabu - DevOps engineer
+       Niresh Prabu - DevOps Engineer
 </p>
 
 <p>
 <b>DESCRIPTION</b><br>
-        I'm a DevOps engineer at <a href="https://ittrident.com">itTrident</a>.<br>
+        I'm a DevOps Engineer at <a href="https://ittrident.com">itTrident</a>.<br>
        Ask me about Terraform, Docker, AWS.<br>
-       I'm currently learning GCP, Ansible, K8's.
+       I'm currently learning GCP, Ansible, Linux.
 </p>
 
 <p>
