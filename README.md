@@ -1,19 +1,14 @@
-<samp>
-<p>
-<b>NAME</b><br>
-       Niresh Prabu - DevOps Engineer
-</p>
+<img src="https://miro.medium.com/max/3000/1*mqv03KrlG5LK2XU1uV4LJg.gif" height=100 width=200 align="center">
+<img src="https://octodex.github.com/images/heisencat.png" height=400 width=300 align="right">
+<h1 align="left">Hi 👋, I'm Nireshprabu</h1>
+<h3 align="left">DevOps Engineer</h3>
 
-<p>
-<b>DESCRIPTION</b><br>
-        I'm a DevOps Engineer at <a href="https://ittrident.com">itTrident</a>.<br>
-       Ask me about Terraform, Docker, AWS.<br>
-       I'm currently learning GCP, Ansible, Linux.
-</p>
+- I’m currently learning **Linux, GCP, Ansible**
 
-<p>
-<b>ENVIRONMENT</b><br>
-       HOME       India<br>
-       LANG       en_IN.UTF-8, te_IN.UTF-8, ta_IN.UTF-8
+- Ask me about **Terraform, AWS, Docker**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nireshprabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nireshprabu" height="30" width="40" /></a>
 </p>
-</samp>
+<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
