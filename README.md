@@ -1,7 +1,7 @@
 <img align="right" src="https://octodex.github.com/images/heisencat.png" height=400 width=300>
 
 
-<h1 align="left">Hi 👋, I'm Nireshprabu</h1>
+<h1 align="left">I'm Nireshprabu</h1>
 
 <img src="https://media4.giphy.com/media/3ohc10GA6j4XrLWzZK/giphy.gif?cid=ecf05e47c5q5m6icoar90a4o0491bqksnn027fczehf4o972&rid=giphy.gif&ct=g" width=300 align="center">
 
