@@ -3,6 +3,11 @@
 
 <h1 align="left">I'm Nireshprabu</h1>
 
+<p align="center">
+  <a href="https://discord.gg/aQhvzGNG"><img src="https://discordapp.com/api/guilds/1135467143224369235/widget.png?style=banner3"></a>
+</p>
+
+
 <img src="https://camo.githubusercontent.com/65f00c4f146b2c20e3c6ae1abc7501a4937e1fb54239fcc41860da0c59d27e56/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333030302f312a6d717630334b726c47354c4b325855317556344c4a672e676966" width=220 align="center">
 
 
