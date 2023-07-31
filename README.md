@@ -4,7 +4,7 @@
 <h1 align="left">I'm Nireshprabu</h1>
 
 <p align="center">
-  <a href="https://discord.gg/aQhvzGNG"><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"></a>
+  <a href="https://discord.com/users/1110959913309577329"><img src="https://img.discord.dog/1110959913309577329?width=300"></a>
 </p>
 
 
