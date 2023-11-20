@@ -14,6 +14,8 @@
 - I’m currently learning **Linux, GCP, Ansible**
 
 - Ask me about **Terraform, AWS, Docker**
+  
+<h3 align="left"> My badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h3>
 
 [![Accredible Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87363294)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/87363294)
 
